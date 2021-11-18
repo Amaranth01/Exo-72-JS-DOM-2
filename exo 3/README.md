@@ -1,7 +1,7 @@
 Consignes Exercice 3 :
 
 I -
-Cette page Web utilise des balises div afin de créer des étiquette de nom pour des informaticiens célèbres.
+Cette page Web utilise des balises div afin de créer des étiquettes de nom pour des informaticiens célèbres.
 Dans ce défi, vous allez utiliser le JavaScript pour ajouter un élément html de type p à l'intérieur des div ayant
 pour classe "name-tag".
 Première étape : utilisez document.getElementsByClassName pour trouver tous les div ayant pour classe "name-tag"

@@ -1,7 +1,7 @@
 Consignes Exercice 2 :
 
 I -
-Cette page Web utilise des balises div afin de créer des étiquette de nom pour des informaticiens célèbres.
+Cette page Web utilise des balises div afin de créer des étiquettes de nom pour des informaticiens célèbres.
 Dans ce défi, vous allez utiliser le JavaScript pour modifier le texte des titres h1 de ces étiquettes de nom.
 Première étape : utilisez document.getElementsByTagName pour trouver tous les titres, afin de les stocker dans une variable.
 
